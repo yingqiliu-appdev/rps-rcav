@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2021-rps-rcav:summer@sha256:5b8554e2163e932972e9592de1364103853e56ae56c59e06160a3e4ffd7166d7
+image: jelaniwoods/appdev2021-rps-rcav:fall@sha256:d83cc822b4fde186af913d28287d7b004f7fd0e3104252044e533fcbf9c2e2da
 
 tasks:
   - command: bundle install
@@ -10,5 +10,4 @@ ports:
 vscode:
   extensions:
     - shd101wyy.markdown-preview-enhanced
-    - Vense.rails-snippets
     - wingrunr21.vscode-ruby
